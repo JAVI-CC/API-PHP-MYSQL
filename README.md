@@ -1,7 +1,7 @@
 # API-PHP-MYSQL
 
-localhost/index.php
+<a href="localhost/index.php">localhost/index.php</a>
 
-localhost/index.php?id=[id]
+<a href="localhost/index.php?id=[id]">localhost/index.php?id=[id]</a>
 
-localhost/formulario.html
+<a href="localhost/formulario.html">localhost/formulario.html</a>
